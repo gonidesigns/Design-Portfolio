@@ -78,6 +78,7 @@ img {
   font-weight: 600;
 }
 
+
 .meta {
   color: var(--secondary-color);
   font-weight: 500;
@@ -200,6 +201,8 @@ nav {
 /* Homepage */
 .grid-main .item {
   position: relative;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .grid-main .item img {
